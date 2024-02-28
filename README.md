@@ -3,7 +3,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=antonileon&label=Profile%20views&color=0e75b6&style=flat" alt="antonileon" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/antonileon">
+  
 </p>
 
 
