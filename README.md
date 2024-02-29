@@ -14,13 +14,13 @@
   
 - 🌱 I’m currently learning **NODEJS**
 
-- 🧑‍🎓 Currently working on the development with PHP and CakePHP framework**
+- 🧑‍🎓 Currently working on the development with **PHP** and **CakePHP** framework
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Talk to me about **Technology**
 
 - 📫 How to reach me **antonijleon@gmail.com**
   
-- ⚡ Fun fact: I use tabs over spaces**
+- ⚡ **Fun fact: I use tabs over spaces**
 
 </td>
 <td width="50%" align="center">
