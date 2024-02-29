@@ -12,15 +12,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **NODEJS**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 Currently working on the development with PHP and CakePHP framework**
 
 - 💬 Ask me about **Web development | OOC**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **antonijleon@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact: I use tabs over spaces**
 
 </td>
 <td width="50%" align="center">
