@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About me GIF">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hi Wave">
 </p>
 
 <h1 align="center">Hi 👋, I'm Antoni León</h1>
@@ -25,7 +25,7 @@
 
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2888518.png" width="400px" alt="Coding Illustration">
+      <img src="https://raw.githubusercontent.com/evertonS32/evertonS32/main/assets/developer.gif" width="380px" alt="Coding Illustration">
     </td>
   </tr>
 </table>
@@ -43,14 +43,15 @@
 
 <h3 align="center">📊 My GitHub Statistics</h3>
 <br />
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=antonileon&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Antoni's GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antonileon&show_icons=true&theme=dark&count_private=true" alt="Antoni's GitHub Stats" />
   &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonileon&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonileon&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonileon&theme=dark&hide_border=false" alt="Antoni's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonileon&theme=dark" alt="Antoni's Streak" />
 </p>
 
 ---
@@ -73,14 +74,3 @@
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
----
-
-<!--
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/scar2001"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
--->
