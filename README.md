@@ -45,9 +45,7 @@
 <br />
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antonileon&show_icons=true&theme=dark&count_private=true" alt="Antoni's GitHub Stats" />
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=antonileon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+  <img height="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=antonileon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
