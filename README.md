@@ -25,7 +25,7 @@
 
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/evertonS32/evertonS32/main/assets/developer.gif" width="380px" alt="Coding Illustration">
+      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="380px" alt="Coding Illustration">
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=antonileon&show_icons=true&theme=dark&count_private=true" alt="Antoni's GitHub Stats" />
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonileon&layout=compact&theme=dark" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=antonileon&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
