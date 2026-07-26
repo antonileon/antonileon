@@ -14,7 +14,7 @@
   
 - 🌱 I’m currently learning **NODEJS**
 
-- 🧑‍🎓 Currently working on the development with **PHP** and **CakePHP** framework
+- 🧑‍🎓 Currently working on the development with **PHP**, **Laravel** and **CakePHP** framework
 
 - 💬 Talk to me about **Technology**
 
